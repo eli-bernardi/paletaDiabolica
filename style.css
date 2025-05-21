@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    align-items: center;
+    font-weight: bold;
+}
+body{
+    margin: 32px;
+    background-color: violet;
+}
+h1{
+    color: black;
+}
+label, input{
+    font-size: 24px;
+    color: rgb(44, 27, 27);
+    background-color: coral;
+}
+button{
+    background-color: rgb(128, 78, 18);
+    color: rebeccapurple;
+}
